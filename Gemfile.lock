@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/vikas5b6/vicky_view_tool
+  revision: a46522cb62c10ccc82a055302fcf38433ab8ea5d
+  specs:
+    vicky_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -220,6 +226,7 @@ DEPENDENCIES
   turbolinks (~> 5)
   tzinfo-data
   uglifier (>= 1.3.0)
+  vicky_view_tool!
   web-console (>= 3.3.0)
 
 RUBY VERSION
